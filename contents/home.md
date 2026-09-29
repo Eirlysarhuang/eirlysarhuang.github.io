@@ -3,11 +3,10 @@
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>huangrong@ncepu.edu.cn</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
+**North China Electric Power University**, Master of XX (XX – XX)  
 • GPA: XX/XX  
 
 **XX University**, Exchange student <br>  
