@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- **National Scholarship for Postgraduate Students (Master’s), 2018**
+- 
+- **National Scholarship for Postgraduate Students (Doctoral), 2022**
