@@ -8,6 +8,14 @@ I also study privacy-preserving authentication and blockchain-enabled energy tra
 <code>huangrong@ncepu.edu.cn</code>  
 
 #### Education  
+
+|  |  |
+| :--- | --: |
+| **Ph.D. in Control Science and Engineering**<br>*Research Area: Information Security*<br>School of Control and Computer Engineering, North China Electric Power University | *Sep 2019 – Jun 2023* |
+| **Graduate Studies in Computer Applications Technology**<br>School of Control and Computer Engineering, North China Electric Power University<br>*Transferred to the Ph.D. program* | *Sep 2017 – Jul 2019* |
+| **B.Eng. in Information Security**<br>School of Control and Computer Engineering, North China Electric Power University | *Sep 2013 – Jun 2017* |
+
+
 **Ph.D. in Control Science and Engineering**	Sep 2019 – Jun 2023  
 Research Area: Information Security  
 School of Control and Computer Engineering, North China Electric Power University  

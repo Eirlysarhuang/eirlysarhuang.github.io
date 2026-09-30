@@ -1,11 +1,15 @@
-### **Lecturer	Jun 2025 – Present**  
+### **Lecturer  Jun 2025 – Present**  
 **School of Control and Computer Engineering, North China Electric Power University**  
 
-### **Postdoctoral Researcher	Jul 2023 – Jun 2025**  
+### **Postdoctoral Researcher  Jul 2023 – Jun 2025**  
 **Postdoctoral Research Station of Electrical Engineering, North China Electric Power University**  
 
+|  |  |
+| :--- | --: |
+| **Lecturer**<br>School of Control and Computer Engineering, North China Electric Power University | *Jun 2025 – Present* |
+| **Postdoctoral Researcher**<br>Postdoctoral Research Station of Electrical Engineering, North China Electric Power University | *Jul 2023 – Jun 2025* |
 
-#### RESEARCH FUNDING AND PROJECTS:  
+### **RESEARCH FUNDING AND PROJECTS:** 
 - Project: Cross-domain Evolution of Stealthy Attacks and Resilient Protection in Power Industrial Control Systems
 Category: National Natural Science Foundation of China - Young Scientists Fund
 Role: **Project Lead** | Jan 2027 - Dec 2029 
